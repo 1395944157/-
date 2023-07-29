@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import os
-
 class GUI:
     def __init__(self):
         print("No")
